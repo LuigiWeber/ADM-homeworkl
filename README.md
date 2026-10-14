@@ -1,2 +1,2 @@
-# ADM-homeworkl
-ADM homeworks
+# ADM-homeworks
+Just as instructed, I provided the two files. 
